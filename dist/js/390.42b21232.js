@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue_hm_shopping"]=self["webpackChunkvue_hm_shopping"]||[]).push([[390],{3390:function(n,u,e){e.r(u),e.d(u,{default:function(){return i}});var t=function(){var n=this,u=n._self._c;return u("div",[n._v(" 我是Pay ")])},l=[],s={name:"LayoutIndex"},r=s,a=e(1001),h=(0,a.Z)(r,t,l,!1,null,null,null),i=h.exports}}]);
+//# sourceMappingURL=390.42b21232.js.map
